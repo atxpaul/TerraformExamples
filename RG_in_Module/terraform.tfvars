@@ -1,0 +1,2 @@
+application = "testforfun"
+location    = "westeurope"
